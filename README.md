@@ -19,3 +19,13 @@ To download and prepare the dataset for analysis, you can use the provided Jupyt
 - For instructions on setting up the Kaggle API, refer to the [Kaggle API documentation](https://www.kaggle.com/docs/api).
 
 Once you have successfully downloaded the dataset, you can proceed with the analysis and visualization steps outlined in the subsequent notebooks.
+
+## Analysis and Visualizations
+
+The core analysis and visualizations for this project are provided in the `notebooks/Data_Analysis_and_Insights.ipynb` file. This notebook covers:
+- Data cleaning and preprocessing steps.
+- Exploratory data analysis (EDA) of the collected sports log data.
+- Visual insights derived from the dataset.
+- Key trends and findings from the data.
+
+You can view the notebook directly on GitHub or download it to run locally.
